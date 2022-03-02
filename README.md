@@ -21,6 +21,7 @@ This module can be used for every page to highlight sections.
 - Add the styling code found in Resources/Tutorial/_tutorial.scss to your styling
 
 == Configuration ==
+
 === In Studio Pro ===
 - Add the module roles to your security (Administrator to your admin role and User to all the other roles)
 - Add Tutorial_Configuration to your navigation
