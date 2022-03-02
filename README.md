@@ -17,7 +17,7 @@ This module can be used for every page to highlight sections.
 - Atlas Core
 - CommitScopeFeedback (available in Marketplace)
 - Mx 9.6.9 or higher
-- _tutorial.scss need to be added to the styling (included by the module in the resources folder
+- _tutorial.scss need to be added to the styling (included by the module in the resources folder)
 
 == Installation ==
 - Add the styling code found in Resources/Tutorial/_tutorial.scss to your styling
