@@ -2,9 +2,11 @@
 Helper module to easily create an info button for each page to highlight sections of the page and support with explanatory text.
 
 == Description ==
+
 Helper module to easily create an info button for each page to highlight sections of the page and support with explanatory text
 
 == Typical usage scenario ==
+
 This module can be used for every page to highlight sections.
 
 == Features and limitations ==
